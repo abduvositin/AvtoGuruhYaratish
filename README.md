@@ -8,6 +8,7 @@ Bu script sizga avtomatik ravishda quyidagi ishlarni bajaradi:
 - Guruh tarixini ochadi (ko‘rinadigan qiladi)
 - Belgilangan botlarni guruhga qo‘shadi
 - Har bir botga kerakli admin huquqlarini beradi
+- 1 kunda 50 tadan ko'p guruh ochib bolmaydi bu telegram limiti
 
 ---
 
