@@ -24,14 +24,15 @@ pip install telethon
 ## ⚙️ Sozlamalar
 
 ```python
-api_id = 27692725
-api_hash = 'c4069ea0a7e03e277e3a9e24b6e5f565'
-phone = '+998334438384'
+api_id = API_ID
+api_hash = 'API_HASH'
+phone = 'PHONE NUMBER'
 
 BOT_USERNAMES = ['sokmang_bot', 'JoinDelBot', 'TozaIovchi_Bot']
 ```
 
 > ⚠️ `api_id`, `api_hash` va `phone` o‘z hisobingizga tegishli bo‘lishi kerak. Maxfiy ma’lumotlarni `.env` orqali saqlash tavsiya etiladi.
+> Api id va hashni [my.telegram.org](https://my.telegram.org/auth) sayitidan olasiz
 
 ---
 
@@ -94,17 +95,3 @@ AvtoGuruhYaratish/
 └── main.py                  # Asosiy script
 ```
 
----
-
-## 👨‍💻 Muallif
-
-Ushbu script avtomatlashtirilgan Telegram guruhlari uchun ishlab chiqilgan.  
-Loyiha ochiq va xohlagancha kengaytirishingiz mumkin.
-
----
-
-## 📜 Litsenziya
-
-Ushbu loyiha ochiq manbali va hech qanday rasmiy litsenziyaga ega emas. O‘zgartiring, kengaytiring va foydalaning.
-
----
