@@ -69,7 +69,7 @@ while True:
 Har bir yaratilgan guruh quyidagi faylga yoziladi:
 
 ```
-📁 2025/IYUN2/guruhlar.txt
+📁 2025/guruhlar.txt
 
 Guruh nomi: SupperGuruh 2025-08-07-22-30-12
 Guruh ID: 123456789
